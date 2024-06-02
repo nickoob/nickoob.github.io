@@ -1,3 +1,3 @@
 # nickoob.github.io
 
-Something
+My blog
